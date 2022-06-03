@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Semester 6/Aplikasi Komputasi Bergerak/Project/UTS - 2/UTSPraktikIF10K10119902MuhammadNurkholiq/app/src/main/res/drawable/info_border.xml" value="0.178" />
+        <entry key="..\:/Semester 6/Aplikasi Komputasi Bergerak/Project/UTS - 2/UTSPraktikIF10K10119902MuhammadNurkholiq/app/src/main/res/drawable/info_border1.xml" value="0.178" />
+        <entry key="..\:/Semester 6/Aplikasi Komputasi Bergerak/Project/UTS - 2/UTSPraktikIF10K10119902MuhammadNurkholiq/app/src/main/res/drawable/info_title_border.xml" value="0.178" />
+        <entry key="..\:/Semester 6/Aplikasi Komputasi Bergerak/Project/UTS - 2/UTSPraktikIF10K10119902MuhammadNurkholiq/app/src/main/res/drawable/input_border.xml" value="0.178" />
+        <entry key="..\:/Semester 6/Aplikasi Komputasi Bergerak/Project/UTS - 2/UTSPraktikIF10K10119902MuhammadNurkholiq/app/src/main/res/drawable/title_border.xml" value="0.178" />
+        <entry key="..\:/Semester 6/Aplikasi Komputasi Bergerak/Project/UTS - 2/UTSPraktikIF10K10119902MuhammadNurkholiq/app/src/main/res/layout-v28/activity_main.xml" value="0.264" />
+        <entry key="..\:/Semester 6/Aplikasi Komputasi Bergerak/Project/UTS - 2/UTSPraktikIF10K10119902MuhammadNurkholiq/app/src/main/res/layout/activity_main.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
